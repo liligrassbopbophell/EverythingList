@@ -1,24 +1,15 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 163,
+    "name": "Midori",
+    "author": "Yopp",
+    "creators": ["Yopp"],
+    "verifier": "None",
+    "verification": "https://youtu.be/vlrN8Mso-6Y?list=RDvlrN8Mso-6Y",
     "percentToQualify": "100",
     "password": "46290",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
+           
         }
     ]
 }
